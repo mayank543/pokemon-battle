@@ -1,5 +1,5 @@
 
-# PokeAPI Battle
+# Pokemon Battle
 * **Level:** Intermediate
 * **Description:** Utilizing PokeAPI, pull random pokemon and battle them to determine a winner.
 * **Created By:** Stephanie Burgos (coach-stephanie)
